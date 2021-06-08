@@ -2,3 +2,9 @@
             text-align: center;
             color: #F65282;
         }
+
+p {
+    text-align: center;
+    color: #F65282;
+    margin-top: auto;
+}
