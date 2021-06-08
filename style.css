@@ -64,3 +64,11 @@ p {
 .btn-white {
     background-color: #c6b3b8;
 }
+
+.link {
+    color: #F65282;
+}
+
+.link:hover {
+    color: #F65282;
+}
